@@ -5,6 +5,7 @@ function windowSoftManager() {
 }
 
 windowSoftManager.prototype.setMode = function(aString){
+ alert(aString);
  exec(function(result){
      /*alert("OK" + reply);*/
    },
