@@ -1,0 +1,17 @@
+{
+  "name": "windowSoftInputMode",
+  "version": "1.0.0",
+  "description": "Plugin to change windowSoftInputMode in android from javascript",
+  "cordova": {
+    "id": "com.vertex.windowSoftInputMode",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "cordova",
+    "windowSoftManager"
+  ],
+  "author": "Shifan",
+  "license": "Apache 2.0"
+}
